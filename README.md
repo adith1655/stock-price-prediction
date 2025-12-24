@@ -20,7 +20,7 @@ The script performs the following steps:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/stock-price-prediction.git](https://github.com/YOUR_USERNAME/stock-price-prediction.git)
+    git clone [https://github.com/YOUR_USERNAME/stock-price-prediction.git]
     cd stock-price-prediction
     ```
 
